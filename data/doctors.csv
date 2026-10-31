@@ -1,0 +1,9 @@
+doctor_id,doctor_name,dept_id,consultation_fee
+1,Dr. A. Sharma,1,1000
+2,Dr. R. Mehta,1,900
+3,Dr. V. Reddy,2,800
+4,Dr. S. Kaur,3,600
+5,Dr. N. Iyer,4,1000
+6,Dr. P. Singh,5,450
+7,Dr. K. Nair,5,400
+8,Dr. T. Bansal,6,500
